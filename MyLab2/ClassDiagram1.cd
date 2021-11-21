@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyLab2.DOM">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DOM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MyLab2.SAX">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SAX.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MyLab2.LinqToXML">
+    <Position X="11.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAABAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LinqToXML.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="MyLab2.Scientific_works">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAIAgAAAAAAAAEAAAAAACAAAAASgAAAA=</HashCode>
+      <FileName>Scientific_works.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLab2.Program" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLab2.Form1">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <AssociationLine Name="LinqToXML" Type="MyLab2.LinqToXML" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.75" Y="12.363" />
+        <Point X="12.5" Y="12.363" />
+        <Point X="12.5" Y="7.44" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ReREQIAAGCIABQDJQSCaCBKeAAAgAjCIAgBZ0ABMCAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DOM" />
+      <Property Name="SAX" />
+      <Property Name="LinqToXML" />
+      <Property Name="Scientific_works" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="MyLab2.IStrategy" Collapsed="true">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

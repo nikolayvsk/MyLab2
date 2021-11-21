@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ScientificWorksSheet>
+	<ScientificWork
+	FullName = "Перша персона"
+	Faculty = "Факультет комп'ютерних наук та кібернетики"
+	Department = "Кафедра прикладної статистики"
+	Position = "Асистент кафедри"
+	Scientific_Work = "Прогнозування динаміки курсу криптовалют"
+	Customer = "Національний банк України"
+	Address = "вулиця Інститутська, 9, Київ"
+	Subordination = "Держава"
+	Area = "Фінанси">
+	</ScientificWork>
+	<ScientificWork
+	FullName = "Друга персона"
+	Faculty = "Фізико-математичний факультет"
+	Department = "Кафедра математичного аналізу та теорії ймовірностей"
+	Position = "Доцент кафедри"
+	Scientific_Work = "Математичний аналіз"
+	Customer = "Приватне підприємство"
+	Address = "Київ, проспект академіка Глушкова, 4-е"
+	Subordination = "Приват"
+	Area = "Інформаційні технології">
+	</ScientificWork>
+	<ScientificWork
+	FullName = "Третя персона"
+	Faculty = "Економічний факультет"
+	Department = "Кафедра фінансів"
+	Position = "Професор кафедри"
+	Scientific_Work = "Модернізація фінансової системи"
+	Customer = "Національний банк України"
+	Address = "вулиця Інститутська, 9, Київ"
+	Subordination = "Держава"
+	Area = "Фінанси">
+	</ScientificWork>
+	<ScientificWork
+	FullName = "Четверта персона"
+	Faculty = "Економічний факультет"
+	Department = "Кафедра фінансів"
+	Position = "Доцент кафедри"
+	Scientific_Work = "Бюджетування діяльності суб’єктів господарювання"
+	Customer = "Приватне підприємство"
+	Address = "Голосіївський проспект, 118-1, Київ"
+	Subordination = "Приват"
+	Area = "Фінанси">
+	</ScientificWork>
+	<ScientificWork
+	FullName = "П'ята персона"
+	Faculty = "Факультет комп'ютерних наук та кібернетики"
+	Department = "Кафедра обчислювальної математики"
+	Position = "Професор кафедри"
+	Scientific_Work = "Інформаційні технології в дослідженні екологічного стану атмосфери"
+	Customer = "Приватне підприємство"
+	Address = "вулиця Інститутська, 9, Київ"
+	Subordination = "Приват"
+	Area = "Інформаційні технології">
+	</ScientificWork>
+	<ScientificWork
+	FullName = "Шоста персона"
+	Faculty = "Факультет комп'ютерних наук та кібернетики"
+	Department = "Кафедра прикладної статистики"
+	Position = "Завідувач кафедри"
+	Scientific_Work = "Збірник задач з прикладної статистики"
+	Customer = "Міністерство освіти і науки України"
+	Address = "проспект Перемоги, 10"
+	Subordination = "Держава"
+	Area = "Наука">
+	</ScientificWork>
+	<ScientificWork
+	FullName = "Сьома персона"
+	Faculty = "Фізико-математичний факультет"
+	Department = "Кафедра математичного аналізу та теорії ймовірностей"
+	Position = "Завідувач кафедри"
+	Scientific_Work = "Елементарна теорія чисел та елементи криптографії"
+	Customer = "Міністерство освіти і науки України"
+	Address = "проспект Перемоги, 10"
+	Subordination = "Держава"
+	Area = "Наука">
+	</ScientificWork>
+	<ScientificWork
+	FullName = "Восьма персона"
+	Faculty = "Факультет комп'ютерних наук та кібернетики"
+	Department = "Кафедра обчислювальної математики"
+	Position = "Доцент кафедри"
+	Scientific_Work = "Математичний аналіз. Топологія дійсної прямої"
+	Customer = "Міністерство освіти і науки України"
+	Address = "проспект Перемоги, 10"
+	Subordination = "Держава"
+	Area = "Наука">
+	</ScientificWork>
+	<ScientificWork
+	FullName = "Дев'ята персона"
+	Faculty = "Фізико-математичний факультет"
+	Department = "Кафедра математичного аналізу та теорії ймовірностей"
+	Position = "Доцент кафедри"
+	Scientific_Work = "Керування лінійними динамічними системами перетвореннями часу"
+	Customer = "Український математичний журнал"
+	Address = "вулиця Терещенківська, 3, Київ"
+	Subordination = "Приват"
+	Area = "Наука">
+	</ScientificWork>
+	<ScientificWork
+	FullName = "Десята персона"
+	Faculty = "Економічний факультет"
+	Department = "Кафедра фінансів"
+	Position = "Доцент кафедри"
+	Scientific_Work = "Фінансова політика та фінансова безпека держави"
+	Customer = "Приватне підприємство"
+	Address = "вулиця Преображенська, 27, Київ"
+	Subordination = "Приват"
+	Area = "Фінанси">
+	</ScientificWork>
+</ScientificWorksSheet>
